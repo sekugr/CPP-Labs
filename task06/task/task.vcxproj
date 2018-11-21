@@ -160,7 +160,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="task.cpp" />
+    <ClCompile Include="task06.cpp" />
     <ClCompile Include="task_1.cpp" />
     <ClCompile Include="task_2.cpp" />
     <ClCompile Include="task_3.cpp" />

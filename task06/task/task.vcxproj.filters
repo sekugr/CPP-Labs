@@ -29,9 +29,6 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="task.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="task_1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
@@ -42,6 +39,9 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="func.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="task06.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
